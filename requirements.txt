@@ -6,3 +6,4 @@ catboost
 xgboost
 joblib
 gunicorn
+dill
